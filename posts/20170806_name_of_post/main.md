@@ -1,5 +1,5 @@
 ---
-Keywords: hoge
+Keywords: hoge, huge
 Copyright: (C) 2017 Ryuichi Ueda
 ---
 
