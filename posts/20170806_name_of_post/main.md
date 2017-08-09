@@ -9,3 +9,4 @@ Copyright: (C) 2017 Ryuichi Ueda
 
 * CGIからの呼び出し
 * ウェブフックの確認
+* ヘッダ
