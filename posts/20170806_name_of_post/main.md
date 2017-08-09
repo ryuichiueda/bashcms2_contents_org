@@ -14,3 +14,4 @@ Copyright: (C) 2017 Ryuichi Ueda
 * もう一度
 * コンフリクト
 * masterでもう一度
+* 原因がわかった
