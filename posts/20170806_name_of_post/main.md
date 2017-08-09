@@ -15,3 +15,4 @@ Copyright: (C) 2017 Ryuichi Ueda
 * コンフリクト
 * masterでもう一度
 * 原因がわかった
+* bye bye
