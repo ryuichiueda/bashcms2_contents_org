@@ -19,3 +19,4 @@ Copyright: (C) 2017 Ryuichi Ueda
 * branchでエラーが出るのは放置
 * 手元のリポジトリで確認
 * ブランチを作る実験
+* sourceの機能検証
