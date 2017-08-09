@@ -18,3 +18,4 @@ Copyright: (C) 2017 Ryuichi Ueda
 * ドラフトだとだめ
 * もう一度
 * echo BYEを追加
+* -eを外す
