@@ -8,3 +8,4 @@ Copyright: (C) 2017 Ryuichi Ueda
 動作確認
 
 * CGIからの呼び出し
+* ウェブフックの確認
