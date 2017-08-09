@@ -17,3 +17,4 @@ Copyright: (C) 2017 Ryuichi Ueda
 * 原因がわかった
 * bye bye
 * branchでエラーが出るのは放置
+* 手元のリポジトリで確認
