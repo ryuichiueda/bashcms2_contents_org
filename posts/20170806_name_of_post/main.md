@@ -13,3 +13,4 @@ Copyright: (C) 2017 Ryuichi Ueda
 * ウェブフックの確認アゲイン
 * もう一度
 * コンフリクト
+* masterでもう一度
