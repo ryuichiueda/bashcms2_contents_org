@@ -17,3 +17,4 @@ Copyright: (C) 2017 Ryuichi Ueda
 * GitHub側でうまくレスポンスが取れない
 * ドラフトだとだめ
 * もう一度
+* echo BYEを追加
