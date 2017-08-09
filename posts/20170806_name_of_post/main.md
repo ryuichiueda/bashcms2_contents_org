@@ -16,3 +16,4 @@ Copyright: (C) 2017 Ryuichi Ueda
 * masterでもう一度
 * 原因がわかった
 * bye bye
+* branchでエラーが出るのは放置
