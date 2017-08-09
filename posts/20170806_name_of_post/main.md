@@ -16,3 +16,4 @@ Copyright: (C) 2017 Ryuichi Ueda
 * 電波悪い
 * GitHub側でうまくレスポンスが取れない
 * ドラフトだとだめ
+* もう一度
