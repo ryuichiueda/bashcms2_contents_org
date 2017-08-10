@@ -9,8 +9,8 @@ Copyright: (C) 2017 Ryuichi Ueda
 
 ## 青ネギ
 
-(./green_negi.jpg)
+![](./green_negi.jpg)
 
 ## 白ネギ
 
-(white_negi.jpg)
+![](white_negi.jpg)
