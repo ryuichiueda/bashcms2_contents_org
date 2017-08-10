@@ -20,3 +20,4 @@ Copyright: (C) 2017 Ryuichi Ueda
 * 手元のリポジトリで確認
 * ブランチを作る実験
 * sourceの機能検証
+* rndファイルの設置
