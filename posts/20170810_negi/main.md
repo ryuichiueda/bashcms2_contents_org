@@ -17,4 +17,4 @@ Copyright: (C) 2017 Ryuichi Ueda
 
 ## ドキュメント
 
-![](negi.pdf)
+[negi.pdf](negi.pdf)
