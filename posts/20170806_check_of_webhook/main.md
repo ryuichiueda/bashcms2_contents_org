@@ -22,3 +22,4 @@ Copyright: (C) 2017 Ryuichi Ueda
 * sourceの機能検証
 * rndファイルの設置
 * タイムスタンプの確認
+* タイムスタンプが生成されるか確認
