@@ -21,3 +21,4 @@ Copyright: (C) 2017 Ryuichi Ueda
 * ブランチを作る実験
 * sourceの機能検証
 * rndファイルの設置
+* タイムスタンプの確認
