@@ -27,3 +27,4 @@ Copyright: (C) 2017 Ryuichi Ueda
 * fetchの行数短縮
 * バグフィックス
 * 更新時間
+* 時刻のフォーマット変更
