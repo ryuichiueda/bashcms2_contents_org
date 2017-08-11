@@ -26,3 +26,4 @@ Copyright: (C) 2017 Ryuichi Ueda
 * 更新時刻が更新されるか確認
 * fetchの行数短縮
 * バグフィックス
+* 更新時間
