@@ -7,3 +7,4 @@ Copyright: (C) 2017 Ryuichi Ueda
 
 * postのリストを作ってます。
 * ちょっとタイムスタンプを手でいじる
+* templateをリストから抜く
