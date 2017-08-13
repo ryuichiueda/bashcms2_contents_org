@@ -14,3 +14,4 @@ Copyright: (C) 2017 Ryuichi Ueda
 * deployし忘れ
 * もう一度
 * うまくいけ！！！
+* 完成？
