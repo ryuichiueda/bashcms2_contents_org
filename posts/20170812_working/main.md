@@ -16,3 +16,4 @@ Copyright: (C) 2017 Ryuichi Ueda
 * うまくいけ！！！
 * 完成？
 * 改良
+* また改良つらい
