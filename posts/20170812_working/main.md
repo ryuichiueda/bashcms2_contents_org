@@ -19,3 +19,4 @@ Copyright: (C) 2017 Ryuichi Ueda
 * 改良
 * また改良つらい
 * エラー！！！
+* 飽くなき改良
