@@ -3,7 +3,6 @@ Keywords: 働けども働けども
 Copyright: (C) 2017 Ryuichi Ueda
 ---
 
-# 作業報告
 
 * postのリストを作ってます。
 * ちょっとタイムスタンプを手でいじる
@@ -16,3 +15,4 @@ Copyright: (C) 2017 Ryuichi Ueda
 * もう一度
 * うまくいけ！！！
 * 完成？
+* 改良
