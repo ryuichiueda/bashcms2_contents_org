@@ -1,5 +1,5 @@
 ---
-Keywords: 働けども働けども
+Keywords: 働けども働けども, bashcms2
 Copyright: (C) 2017 Ryuichi Ueda
 ---
 
