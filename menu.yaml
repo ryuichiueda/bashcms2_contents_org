@@ -1,5 +1,5 @@
 links:
-  - link: 'top'
-    - href: '/?page=top'
-  - link: '開発日誌（ブログ）'
-    - href: '/?post' 
+- link: 'top'
+  href: '/?page=top'
+- link: '開発日誌（ブログ）'
+  href: '/?post' 
