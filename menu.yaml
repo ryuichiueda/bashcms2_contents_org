@@ -6,7 +6,7 @@ links:
 - link: '外部サイト'
   href: './'
   sublinks:
-  - link: '旧bashcms'
-    href: 'http://test.usptomo.com/'
-  - link: '作者ブログ'
-    href: 'https://blog.ueda.tech/'
+  - sublink: '旧bashcms'
+    subhref: 'http://test.usptomo.com/'
+  - sublink: '作者ブログ'
+    subhref: 'https://blog.ueda.tech/'
