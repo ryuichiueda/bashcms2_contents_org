@@ -1,0 +1,7 @@
+links:
+- link: 'top'
+  href: '/?page=top'
+- link: '開発日誌（ブログ）'
+  href: '/?post'
+- link: '外部サイト'
+  href: './'
