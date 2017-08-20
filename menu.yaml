@@ -1,7 +1,7 @@
 links:
-- link: 'top'
+- text: 'top'
   href: '/?page=top'
-- link: '開発日誌（ブログ）'
+- text: '開発日誌（ブログ）'
   href: '/?post'
 - text: '旧bashcms'
   href: 'http://test.usptomo.com'
