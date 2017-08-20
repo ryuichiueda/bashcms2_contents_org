@@ -3,5 +3,5 @@ links:
   href: '/?page=top'
 - link: '開発日誌（ブログ）'
   href: '/?post'
-- link: '外部サイト'
-  href: './'
+- text: '旧bashcms'
+  href: 'http://test.usptomo.com'
