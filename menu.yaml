@@ -7,6 +7,6 @@ links:
   href: './'
   sublinks:
   - sublink: '旧bashcms'
-    subhref: '@@@://test.usptomo.com/'
+    subhref: 'http://test.usptomo.com/'
   - sublink: '作者ブログ'
-    subhref: '@@@s://blog.ueda.tech/'
+    subhref: 'https://blog.ueda.tech/'
