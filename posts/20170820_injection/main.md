@@ -8,3 +8,5 @@ Copyright: (C) 2017 Ryuichi Ueda
 sed '/<a class="nav-link"/s;href="<a href="\(.*\)" class="uri">.*</a>";href="\1";'
 
 <a class="nav-link"   href="<a href="
+
+<script>
