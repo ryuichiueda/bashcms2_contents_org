@@ -2,6 +2,6 @@ protocol: 'https'
 host: 'bashcms2.ueda.tech'
 socialbuttons:
   twitter:
-  - show: 'true'
+  - show: ''
     account: 'ryuichiueda'
 
