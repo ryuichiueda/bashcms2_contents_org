@@ -1,3 +1,4 @@
-site: 'https://bashcms2.ueda.tech'
+protocol: 'https'
+host: 'bashcms2.ueda.tech'
 twitter:
 - account: ryuichiueda
