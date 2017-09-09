@@ -1,6 +1,6 @@
 protocol: 'https'
 host: 'bashcms2.ueda.tech'
 twitter:
-  account: 'ryuichiueda'
+- account: 'ryuichiueda'
 facebook:
-  null: 'null'
+- null: 'null'
