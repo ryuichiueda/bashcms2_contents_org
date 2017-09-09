@@ -2,8 +2,8 @@ protocol: 'https'
 host: 'bashcms2.ueda.tech'
 socialbuttons:
 - twitter
-- facebook
-- hantena
+  facebook
+  hantena
 
 twitter:
   account: 'ryuichiueda'
