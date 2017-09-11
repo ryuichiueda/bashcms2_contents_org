@@ -33,8 +33,5 @@ sociallinks:
 - icon: 'fa-graduation-cap'
   href: 'https://www.researchgate.net/profile/Ryuichi_Ueda'
 socialbuttons:
-  hatena:
-  - account: 'ryuichiueda'
- twitter:
-  - account: 'ryuichiueda'
+- hatena: '@'
 
