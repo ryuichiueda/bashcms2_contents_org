@@ -10,11 +10,6 @@ links:
     href: 'http://test.usptomo.com/'
     text: '作者ブログ'
     href: 'https://blog.ueda.tech/'
-  sublinks:
-    text: '旧bashcms'
-    href: 'http://test.usptomo.com/'
-    text: '作者ブログ'
-    href: 'https://blog.ueda.tech/'
 sociallinks:
 - icon: 'fa-twitter-square'
   href: 'https://twitter.com/ryuichiueda'
