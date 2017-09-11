@@ -1,6 +1,13 @@
 links:
 - text: 'top'
   href: '/?page=top'
+- text: '外部サイト'
+  href: './'
+  sublinks:
+  - text: '旧bashcms'
+    href: 'http://test.usptomo.com/'
+  - text: '作者ブログ'
+    href: 'https://blog.ueda.tech/'
 - text: '開発日誌（ブログ）'
   href: '/?post'
 - text: '外部サイト'
