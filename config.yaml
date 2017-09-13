@@ -1,3 +1,7 @@
+protocol: 'https://'
+host: 'bashcms2.ueda.tech'
+sitetitle: 'bashcms2ブログ'
+sitesubtitle: 'Bootstrapは便利。Pandocも便利。'
 links:
 - text: 'top'
   href: '/?page=top'
