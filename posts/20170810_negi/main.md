@@ -7,11 +7,13 @@ Copyright: (C) 2017 Ryuichi Ueda
 
 ラーメンラーメン！ ラーメンラーメン！ ラーメンラーメン！ ラーメンラーメン！
 
+* [白ネギへジャンプ](#white)
+
 ## 青ネギ
 
 ![青ネギ](./green_negi.jpg)
 
-## 白ネギ
+## 白ネギ {#white}
 
 ![](white_negi.jpg)
 
