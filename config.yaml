@@ -1,6 +1,8 @@
+protocol: 'https:'
+host: 'bashcms2.ueda.tech'
+sitetitle: 'bashcms2ブログ'
+sitesubtitle: 'Bootstrapは便利。Pandocも便利。'
 links:
-- text: 'top'
-  href: '/?page=top'
 - text: '開発日誌（ブログ）'
   href: '/?post'
 - text: '外部サイト'
@@ -27,4 +29,8 @@ sociallinks:
   href: 'https://www.instagram.com/ryuichiueda/'
 - icon: 'fa-graduation-cap'
   href: 'https://www.researchgate.net/profile/Ryuichi_Ueda'
-
+hatena: '@'
+pocket: '@'
+twitter: 'ryuichiueda'
+line: '@'
+facebook: '@'
