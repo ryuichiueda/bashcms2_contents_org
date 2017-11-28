@@ -15,3 +15,5 @@ Copyright: (C) 2017 Ryuichi Ueda
 
 ### 個人的な感想
 bashで満足
+
+...
