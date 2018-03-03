@@ -1,0 +1,10 @@
+#!/bin/bash
+
+find posts pages -type d	|
+while read d ; do
+	date > $d/.restore_time
+done
+
+git add -A 
+git commit -m "Add restore files"
+git push origin master
