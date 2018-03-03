@@ -34,4 +34,5 @@ pocket: '@'
 twitter: 'ryuichiueda'
 line: '@'
 facebook:
-- image: 'https://www.facebook.com/photo.php?fbid=10201391436375074&l=bfa70f0c79'
+  image: '/pages/top/face.jpg'
+  description: 'hogehoge'
